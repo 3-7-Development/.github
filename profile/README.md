@@ -6,6 +6,7 @@ Find us on GitHub:
 - [@jajszu](https://github.com/jajszu)
 - [@VerWellick](https://github.com/verwellick)
 - [@Kykcia](https://github.com/kykcia)
+- [@Paprikatto](https://github.com/Paprikatto)
 
 
 Our projects:
