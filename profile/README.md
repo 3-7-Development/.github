@@ -15,6 +15,6 @@ Our projects:
 
 
 More about us:
-- WSEICraft 6.0 - 2nd place
+- 2nd place at WSEICraft 6.0
 - In 37 we trust
 - Linux CLI is the best
