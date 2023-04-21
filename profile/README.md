@@ -4,7 +4,7 @@ Find us on GitHub:
 - [@galowsky](https://github.com/gal0wsky)
 - [@Yeciak](https://github.com/yeciak)
 - [@jajszu](https://github.com/jajszu)
-- [@VerWellick](https://github.com/verwellick)
+- [@DeltateeDev](https://github.com/DeltateeDev)
 - [@Kykcia](https://github.com/kykcia)
 - [@Paprikatto](https://github.com/Paprikatto)
 
