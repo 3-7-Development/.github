@@ -1,5 +1,5 @@
 # 3.7 Development
-We are a team of young aspiring Software Developers aiming towards gaining experience from all the various interesting projects we imagine.
+We are a team of young aspiring Software Developers aiming towards gaining experience from all the various interesting projects we can imagine.
 
 ### Our main specialties:
 - Mobile Software Development
