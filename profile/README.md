@@ -15,14 +15,14 @@ We're a team of young aspiring Software Developers looking forward to gain exper
 - [@Yeciak](https://github.com/yeciak)
 
 ## Our Technologies:
-- Mobile:
+- **Mobile**:
   - .NET MAUI
   - Flutter
-- Game Dev:
+- **Game Dev**:
   - Godot Engine
   - Unity
-- Linux
-- Languages
+- **Linux**
+- **Languages**
   - C#
   - C++
   - Python
