@@ -1,12 +1,12 @@
-#3.7 Development
+# 3.7 Development
 We're a team of young aspiring Software Developers looking forward to gain experience from all the various interesting projects we can only think of.
 
-###Our main specialties:
+### Our main specialties:
 - Mobile Software Development
 - Game Development
 - Backend & Webapp Development
 
-##Find us on GitHub:
+## Find us on GitHub:
 - [@DeltateeDev](https://github.com/DeltateeDev)
 - [@galowsky](https://github.com/gal0wsky)
 - [@jajszu](https://github.com/jajszu)
@@ -14,7 +14,7 @@ We're a team of young aspiring Software Developers looking forward to gain exper
 - [@Paprikatto](https://github.com/Paprikatto)
 - [@Yeciak](https://github.com/yeciak)
 
-##Our Technologies:
+## Our Technologies:
 - Mobile:
   - .NET MAUI
   - Flutter
@@ -30,7 +30,7 @@ We're a team of young aspiring Software Developers looking forward to gain exper
   - PHP
   - Dart
 
-##More about us:
+## More about us:
 - Achieved 2nd Place in the WSEICraft 6.0 Hackaton in 2022
 - Achieved 3rd Place in the WSEICraft 7.0 Hackaton in 2023
 - We've released multiple Mobile apps on the Google Play Store
