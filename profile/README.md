@@ -1,22 +1,37 @@
-The best programming team in Polando! :)
+#3.7 Development
+We're a team of young aspiring Software Developers looking forward to gain experience from all the various interesting projects we can only think of.
 
-Find us on GitHub:
-- [@galowsky](https://github.com/gal0wsky)
-- [@Yeciak](https://github.com/yeciak)
-- [@jajszu](https://github.com/jajszu)
+###Our main specialties:
+- Mobile Software Development
+- Game Development
+- Backend & Webapp Development
+
+##Find us on GitHub:
 - [@DeltateeDev](https://github.com/DeltateeDev)
+- [@galowsky](https://github.com/gal0wsky)
+- [@jajszu](https://github.com/jajszu)
 - [@Kykcia](https://github.com/kykcia)
 - [@Paprikatto](https://github.com/Paprikatto)
+- [@Yeciak](https://github.com/yeciak)
 
+##Our Technologies:
+- Mobile:
+  - .NET MAUI
+  - Flutter
+- Game Dev:
+  - Godot Engine
+  - Unity
+- Linux
+- Languages
+  - C#
+  - C++
+  - Python
+  - JS / TS
+  - PHP
+  - Dart
 
-Our projects:
-- [HackHeroes 2022: FindAround](https://github.com/Sanfran-CISCO/findaround.git)
-- [Motorola Science Cup 2022: Arkanoid by 3.7](https://github.com/3-7-Development/Arkanoid-by-3.7.git)
-- [WSEICraft 7.0: Los Memoros](https://github.com/3-7-Development/LosMemoros)
-
-
-More about us:
-- 2nd place at WSEICraft 6.0
-- 3rd place at WSEICraft 7.0
-- In 37 we trust
-- Linux CLI is the best
+##More about us:
+- Achieved 2nd Place in the WSEICraft 6.0 Hackaton in 2022
+- Achieved 3rd Place in the WSEICraft 7.0 Hackaton in 2023
+- We've released multiple Mobile apps on the Google Play Store
+- This is the 37th line of the readme.md file.
